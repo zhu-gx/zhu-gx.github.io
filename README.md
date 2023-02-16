@@ -1,2 +1,2 @@
-# zhu1.github.io
+# zhu.github.io
 个人博客
